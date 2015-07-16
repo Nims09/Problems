@@ -62,6 +62,4 @@ class EelOfFortune {
 
 		return table;
 	}
-
-
 }
