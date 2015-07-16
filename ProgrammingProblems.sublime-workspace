@@ -3,14 +3,51 @@
 	{
 		"selected_items":
 		[
+			[
+				"is",
+				"isPalindromic"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"com",
+				"compareValue"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"current",
+				"currentNumber"
+			],
+			[
+				"re",
+				"reverseAsString"
+			],
+			[
+				"sw",
+				"switchValue"
+			],
+			[
+				"nu",
+				"numberAsCharArray"
+			],
+			[
+				"pr",
+				"println"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "Java/MakingNumberPalindromic.java",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1971,
 				"line_ending": "Unix"
 			}
 		}
@@ -56,6 +93,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"switchValue"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -78,25 +116,27 @@
 			[
 				{
 					"buffer": 0,
+					"file": "Java/MakingNumberPalindromic.java",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1971,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								943,
+								943
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 258.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -157,7 +197,7 @@
 		"width": 0.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
